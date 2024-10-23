@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Nicolas',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Music',
+			icon: 'headphones',
+			link: 'https://open.spotify.com',
 		},
 		{
 			id: '4',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Drive',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://drive.google.com/drive/home',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Pinterest',
+					link: 'https://au.pinterest.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Atomi',
+					link: 'https://learn.getatomi.com/subscriptions/143938/classes',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Netflix',
+					link: 'https://www.netflix.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Classroom',
+					link: 'https://classroom.google.com',
 				},
 			],
 		},
